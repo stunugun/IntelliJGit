@@ -7,5 +7,7 @@ public class Main {
         carClass cc = new carClass("Accord","Grey","5");
 
         System.out.println(cc);
+
+        System.out.println("New branch has been created");
     }
 }
